@@ -1,0 +1,5 @@
+{
+  "name": "SASH",
+  "description": "A web application to overlay temperature readings on experiment photos, save them, and track history.",
+  "requestFramePermissions": []
+}
